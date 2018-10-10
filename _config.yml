@@ -1,19 +1,19 @@
 # Site settings
-title:       "Jekyll Bootstrap 4 with Docker"
-header_title: "Jekyll Bootstrap 4 with Docker"
-email:       your@ema.il
-author:      Your Name
-description: "Jekyll static blog boilerplate with Bootstrap 4 and Docker"
-baseurl:     "/jekyll-bootstrap4-docker"
-url:         "https://hexlet-boilerplates.github.io"
+title:       "Как я стал программистом"
+header_title: "Как я стал программистом"
+email:       s_admin@mail.ru
+author:      Джорджи
+description: "Мой мини дневник про попадение в стан программеров"
+baseurl:     ""
+url:         ""
 date_format: "%-d.%m.%Y"
 
 # Google services
-google_analytics: "UA-1360700-62"
+google_analytics: ""
 google_verification: ""
 
 # Facebook
-facebook_app_id: "1414002802233483"
+facebook_app_id: ""
 
 # Optional features
 animated:             false
@@ -27,13 +27,13 @@ ajaxify_contact_form: true
 disqus_shortname: "disqus_xxx"
 
 # Social icons
-github_username: hexlet
+github_username: 
 bitbucket_username:
 stackoverflow_id:
-twitter_username: hexlet
+twitter_username: 
 google_plus_id:
 linkedin_username:
-facebook_username: hexlet
+facebook_username: 
 angellist_username:
 medium_id:
 bitcoin_url:
